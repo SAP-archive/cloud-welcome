@@ -5,23 +5,23 @@ This is the "Welcome" application which is pre-deployed in every new trial accou
 It comprises three demo applications - HANA demo, Paul the Octopus and SAP Library.
 By playing around with the Welcome application, you will learn how to do the following:
 
-** Manage your applications from the cockpit, that is starting and stopping an application
-** Check logs
-** View application processes and their metrics
-** Check performance
+- Manage your applications from the cockpit, that is starting and stopping an application
+- Check logs
+- View application processes and their metrics
+- Check performance
 
 
 Quick start
 -----------
 
-In case you have undeployed the Welcome application but you want to have it back, you can get its source by cloning this GitHub repo,
+You can get its source by cloning this GitHub repo,
 
 `git clone https://github.com/SAP/cloud-welcome/`
 
 For more information about using the samples, see:
-Running Samples from Eclipse : https://help.hana.ondemand.com/help/frameset.htm?e8001e24bb571014946684289214ba84.html
- or 
-Building Samples with Maven : https://help.hana.ondemand.com/help/frameset.htm?841e3eaf32fa4bc3becc6ccd50758278.html
+- Running Samples : https://help.hana.ondemand.com/help/frameset.htm?e8001e24bb571014946684289214ba84.html
+and 
+- Building Samples with Maven : https://help.hana.ondemand.com/help/frameset.htm?841e3eaf32fa4bc3becc6ccd50758278.html
 
 
 Copyright and license
