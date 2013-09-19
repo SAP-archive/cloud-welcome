@@ -12,10 +12,10 @@
 		<!-- add sap.ui.table,sap.ui.ux3 and/or other libraries to 'data-sap-ui-libs' if required -->
 
 		<script>
-				sap.ui.localResources("cloudsamples");
-				jQuery.sap.require("cloudsamples.SampleAppModel");
+				sap.ui.localResources("welcome");
+				jQuery.sap.require("welcome.SampleAppModel");
  			    var oShell = new sap.ui.ux3.Shell("myShell", {
- 		            appIcon:"../cloudsamples/images/SAPLogo.gif",
+ 		            appIcon:"/welcome/images/SAPLogo.gif",
  		            appTitle:"HANA Cloud Platform",
  		            showInspectorTool:false,
  		            showFeederTool:false,
@@ -35,7 +35,7 @@
 				oShell.addWorksetItem(navItem);
 				var view = sap.ui.view({
 					id : "view" + viewDescription.viewId,
-					viewName : "cloudsamples.Init",
+					viewName : "welcome.Init",
 					type : sap.ui.core.mvc.ViewType.JS,
 					viewData : jsonData
 				});

@@ -1,4 +1,4 @@
-jQuery.sap.declare("cloudsamples.SampleAppModel");
+jQuery.sap.declare("welcome.SampleAppModel");
 views = [ {
 	viewDescription : {
 		viewId : "item_hanasample",
