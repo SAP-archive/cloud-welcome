@@ -3,10 +3,10 @@ jQuery.sap.require("sap.ui.commons.TextViewDesign");
 jQuery.sap.require("sap.ui.commons.TextView");
 sap.ui
 		.jsview(
-				"welcome.Init",
+				"cloudsamples.Init",
 				{
 					getControllerName : function() {
-						return "welcome.Init";
+						return "cloudsamples.Init";
 					},
 
 					createContent : function(oController) {

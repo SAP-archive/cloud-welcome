@@ -4,7 +4,7 @@
 							http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 		version="2.5"
 		xmlns="http://java.sun.com/xml/ns/javaee">
-	<display-name>welcome</display-name>
+	<display-name>cloudsamples</display-name>
 
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>

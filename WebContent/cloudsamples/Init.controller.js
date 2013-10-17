@@ -1,4 +1,4 @@
-sap.ui.controller("welcome.Init", {
+sap.ui.controller("cloudsamples.Init", {
 
 /**
 * Called when a controller is instantiated and its View controls (if available) are already created.
