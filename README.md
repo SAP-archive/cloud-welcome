@@ -1,7 +1,7 @@
 SAP HANA Cloud Samples - Welcome
 ==========================================
 
-This is the "Welcome" application which is pre-deployed in every new trial account and allows you to get hands-on experience with the SAP HANA Cloud capabilities.
+This is а  "Welcome" application which  allows you to get hands-on experience with the SAP HANA Cloud capabilities.
 It comprises three demo applications - HANA demo, Paul the Octopus and SAP Library.
 By playing around with the Welcome application, you will learn how to do the following:
 
